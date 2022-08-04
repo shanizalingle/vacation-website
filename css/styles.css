@@ -3,32 +3,39 @@ h1 {
     font-size:75px
 }
 h3 {
-  text-align: center;
-  color: rgb(107, 1, 107);
-  font-size: 40px;
+  text-align: left;
+  font-size: 50px;
   font-weight: bolder;
+  
 }
 p {
 font-family;
-text-align: center;
+text-align: left;
+font-size: 30px;
 }
 body { 
     Background-color: light blue;
 }
 blockquote {
-  background-color: rgba(249, 175, 122, 0.099);
+  background-color: rgba(145, 145, 145, 0.099);
 }
 ul {
   list-style-position: inside;
-  text-align: center;
+  text-align: left;
   list-style: circle;
   font-weight: bold;
-  background-color: rgba(249, 175, 122, 0.082);
+  background-color: rgba(137, 137, 137, 0.082);
 }
 li {
   list-style-position: inside;
-  text-align: center;
+  text-align: left;
 }
 img {
   max-width:100%;
+}
+h4 {
+    font-size: 35px;
+}
+h3 {
+    text-align: center;
 }
